@@ -1,0 +1,20 @@
+3.1.0 (23.11.2013)
+ - added the ability for user to set and browse Shahid by filters
+ - added locale language support
+
+3.0.0 (17.11.2013)
+ - added browsing by date released
+ - added browsing by most popular
+ - added search
+ - added icons for all folders in the plugin
+ - reversed order of episode listings
+
+2.0.0
+ - fixed resolving of shahid clips by creating own web service hosted on Google App Engine
+ - introduced caching of all content fodlers
+ - fixed other bugs
+
+1.0.0
+ - initial release
+ Features:
+     - browse shahid programs
